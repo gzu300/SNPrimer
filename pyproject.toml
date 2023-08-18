@@ -73,7 +73,7 @@ repository = "https://github.com/Benoitdw/SNPrimer"
 
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 myvariant = "^1.0.0"
 gget = "^0.3.11"
 click = "^8.1.3"
